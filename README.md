@@ -24,7 +24,7 @@ Scripts are organized by category/topic:
 ### 🎬 Video & Media
 | Script | Language | Description |
 | :--- | :--- | :--- |
-|  |  |  |
+| [`video/davinci_youtube-chapters.lua`](video/davinci_youtube-chapters.lua) | Lua | **DaVinci Resolve to YouTube:** Exports timeline markers to clipboard as formatted chapters (e.g. `02:15 Intro`). Works in Free version. |
 
 ### 🖥️ System & Utils
 | Script | Language | Description |
