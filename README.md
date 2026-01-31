@@ -19,17 +19,22 @@ Scripts are organized by category/topic:
 ### 🗺️ GPX & Mapping
 | Script | Language | Description |
 | :--- | :--- | :--- |
-| [`gpx/fix_gpx_hdop.py`](gpx/fix_gpx_hdop.py) | Python | **Locus to Slopes Fix:** Removes decimal precision from `<hdop>` tags. |
+| [`gpx/fix_gpx_hdop.py`](gpx/fix_gpx_hdop.py) | Python | **Import GPX to Slopes app fix:** Removes decimal precision from `<hdop>` tags. |
 
 ### 🎬 Video & Media
 | Script | Language | Description |
 | :--- | :--- | :--- |
-| *Example: compress.bat* | Batch | *Simple drag-and-drop H.264 compression.* |
+|  |  |  |
 
 ### 🖥️ System & Utils
 | Script | Language | Description |
 | :--- | :--- | :--- |
-| *Example: backup.ps1* | PowerShell | *Daily backup script for work documents.* |
+|  |  |  |
+
+### 🌐 Web
+| Script | Language | Description |
+| :--- | :--- | :--- |
+|  |  |  |
 
 ---
 
