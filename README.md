@@ -19,7 +19,7 @@ Scripts are organized by category/topic:
 ### 🗺️ GPX & Mapping
 | Script | Language | Description |
 | :--- | :--- | :--- |
-| [`gpx/fix_gpx_hdop.py`](gpx/fix_gpx_hdop.py) | Python | **Import GPX to Slopes app fix:** Removes decimal precision from `<hdop>` tags. |
+| [`gpx/fix_hdop.py`](gpx/fix_hdop.py) | Python | **Import GPX to Slopes app fix:** Removes decimal precision from `<hdop>` tags. |
 
 ### 🎬 Video & Media
 | Script | Language | Description |
